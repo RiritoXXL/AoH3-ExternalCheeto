@@ -1,2 +1,2 @@
 # AoH3-ExternalCheeto
-AoH3-ExternalCheeto by RiritoXXL
+This is my first Program for Initialize JVM.dll as Module and changing value(only works read)... So Enjoy to use this!!!
